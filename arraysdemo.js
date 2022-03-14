@@ -57,3 +57,5 @@ console.log(typeof fruits);// array is also an object
 console.log(Array.isArray(fruits));
 
 
+console.log("second commit");
+
